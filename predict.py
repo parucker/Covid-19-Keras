@@ -39,7 +39,7 @@ for i in normal:
 	totalImages.append(name)
 
 
-for i in range(0,10):
+for count in range(0,10):
 	imageDir = totalImages[random.randint(0,(len(totalImages)-1))]
 	
 	print(imageDir)
@@ -70,4 +70,5 @@ for i in range(0,10):
 	0.8, (255, 255, 255), 2)
 	
 	cv2.imshow("Covid Predict", imageOriginal)
+	cv2.imwrite("Results/result"+ str(count)+".png", imageOriginal)
 	cv2.waitKey(0)
