@@ -13,7 +13,7 @@ O algoritmo foi feito apenas para estudos, não utilizar ele na prática pra det
 A confianbilidade do treino não é alta pois o dataset é pequeno e pode conter erros
 
 
-Training Loss and Accuracy
+Training Loss and Accuracy:
 
 ![Training Loss and Accuracy](https://github.com/parucker/Covid-19-Keras/blob/master/grafic.png)
 
