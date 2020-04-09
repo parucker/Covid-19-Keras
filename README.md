@@ -19,6 +19,6 @@ Training Loss and Accuracy
 
 Resultados:
 
-!(https://github.com/parucker/Covid-19-Keras/blob/master/Results/result0.png)
-!(https://github.com/parucker/Covid-19-Keras/blob/master/Results/result1.png)
-!(https://github.com/parucker/Covid-19-Keras/blob/master/Results/result2.png)
+![Result 0](https://github.com/parucker/Covid-19-Keras/blob/master/Results/result0.png)
+![Result 1](https://github.com/parucker/Covid-19-Keras/blob/master/Results/result1.png)
+![Result 2](https://github.com/parucker/Covid-19-Keras/blob/master/Results/result2.png)
