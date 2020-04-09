@@ -6,7 +6,7 @@ https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with
 
 O dataset foi retirado de:
 https://github.com/ieee8023/covid-chestxray-dataset
-As imagens normais não quer dizer que os pulmões não tenham alguma doença, e sim que não tem o COVID-19
+As imagens normais não querem dizer que os pulmões não tenham alguma doença, e sim que não tem o COVID-19
 
 O algoritmo foi feito apenas para estudos, não utilizar ele na prática pra determinar se uma pessoa tem ou não a doença
 
